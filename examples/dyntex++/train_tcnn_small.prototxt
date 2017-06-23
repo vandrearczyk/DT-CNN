@@ -163,7 +163,7 @@ layer {
   top: "pool3E"
   pooling_param {
     pool: AVE
-    kernel_size: 12 # A changer
+    kernel_size: 12
   }
 }
 layer {
